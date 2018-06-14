@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f197b6f0-03b9-4456-8caf-cb949d438a6d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="function-io.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function-io.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function-io.controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/function-io.controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model_layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model_layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/header.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-143">
+              <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>galler</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../QuizMatematici/index.php" />
+        <option value="$PROJECT_DIR$/../QuizMatematici/funzioni-io.php" />
+        <option value="$PROJECT_DIR$/../QuizMatematici/include/settings.inc.php" />
+        <option value="$PROJECT_DIR$/../QuizMatematici/class/functionCore.class.php" />
+        <option value="$PROJECT_DIR$/../QuizMatematici/function-io.php" />
+        <option value="$PROJECT_DIR$/../QuizMatematici/controller/function-io.controller.php" />
+        <option value="$PROJECT_DIR$/include/settings.inc.php" />
+        <option value="C:/laragon/www/adressBook/.env" />
+        <option value="C:/laragon/www/adressBook/database/seeds/DatabaseSeeder.php" />
+        <option value="C:/laragon/www/adressBook/database/migrations/2018_05_03_124607_create_contacts_table.php" />
+        <option value="C:/laragon/www/adressBook/database/seeds/ContactsTableSeeder.php" />
+        <option value="C:/laragon/www/adressBook/app/Contact.php" />
+        <option value="C:/laragon/www/adressBook/routes/web.php" />
+        <option value="C:/laragon/www/adressBook/app/Http/Controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/class/FunctionCore.class.php" />
+        <option value="$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Utente.class.php" />
+        <option value="$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Transport.class.php" />
+        <option value="$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/wbsc/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/include/footer.inc.php" />
+        <option value="$PROJECT_DIR$/controller/function-io.controller.php" />
+        <option value="$PROJECT_DIR$/model_layout.html" />
+        <option value="$PROJECT_DIR$/include/header.inc.php" />
+        <option value="$PROJECT_DIR$/function-io.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QuizMatematici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Cristel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="QuizMatematici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Cristel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="QuizMatematici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Cristel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="QuizMatematici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Cristel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="include" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\OneDrive\Progetto Informatico\Source\Cristel\src\class" />
+      <recent name="C:\Users\crist\PhpstormProjects\QuizMatematici\class" />
+      <recent name="C:\Users\crist\PhpstormProjects\QuizMatematici\include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f197b6f0-03b9-4456-8caf-cb949d438a6d" name="Default" comment="" />
+      <created>1521617200025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521617200025</updated>
+      <workItem from="1521617203761" duration="3363000" />
+      <workItem from="1523428081829" duration="5269000" />
+      <workItem from="1523875148043" duration="272000" />
+      <workItem from="1524489895362" duration="43000" />
+      <workItem from="1525243186481" duration="5155000" />
+      <workItem from="1525348416331" duration="6627000" />
+      <workItem from="1525779942367" duration="47000" />
+      <workItem from="1525847604861" duration="2952000" />
+      <workItem from="1526294380624" duration="4675000" />
+      <workItem from="1526384406636" duration="28000" />
+      <workItem from="1526384479496" duration="258000" />
+      <workItem from="1527060110742" duration="896000" />
+      <workItem from="1528270008625" duration="38000" />
+      <workItem from="1529002226713" duration="358000" />
+    </task>
+    <task id="LOCAL-00001" summary="Continuazione sviluppo Funzioni I-O">
+      <created>1523433298265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523433298265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29981000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32790446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Continuazione sviluppo Funzioni I-O" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuazione sviluppo Funzioni I-O" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/index.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/gallery.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/class/Car.class.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/class/Form.class.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/class/Security.class.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/controller/login.controller.php" />
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/include/settings.inc.php" />
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/class/FunctionCore.class.php" />
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/class/Form.class.php" />
+    <entry file="file://$PROJECT_DIR$/../zKingmanCristel/login.php" />
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/function-io.php" />
+    <entry file="file://$PROJECT_DIR$/../QuizMatematici/controller/function-io.controller.php" />
+    <entry file="file://$PROJECT_DIR$/destroy.php" />
+    <entry file="file://$PROJECT_DIR$/class/Form.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PI_Fede/numeri_primi/class/numeriPrimi.php" />
+    <entry file="file://$PROJECT_DIR$/class/numeriPrimi.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/class/Security.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/class/Persona.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/class/Utente.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/class/LoadData.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/index.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/controller/portale.controller.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/controller/index.controller.php" />
+    <entry file="file://$PROJECT_DIR$/class/Security.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="92" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/laragon/www/adressBook/.env" />
+    <entry file="file://C:/laragon/www/adressBook/database/seeds/DatabaseSeeder.php" />
+    <entry file="file://C:/laragon/www/adressBook/database/migrations/2018_05_03_124607_create_contacts_table.php" />
+    <entry file="file://C:/laragon/www/adressBook/database/seeds/ContactsTableSeeder.php" />
+    <entry file="file://C:/laragon/www/adressBook/app/Contact.php" />
+    <entry file="file://C:/laragon/www/adressBook/app/Http/Controllers/ContactController.php" />
+    <entry file="file://C:/laragon/www/adressBook/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/class/FunctionCore.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Security.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Utente.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test2WEBO/Sore/acemaster/class/Utente.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test2WEBO/Sore/acemaster/class/Articolo.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Articolo.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Db.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Shop.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/Transport.class.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/wbsc/index.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/class/LoadData.class.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/example-layout.html" />
+    <entry file="file://$PROJECT_DIR$/include/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/function-io.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function-io.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

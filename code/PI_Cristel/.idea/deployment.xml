@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="webo">
+    <serverData>
+      <paths name="webo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zKingMan" local="$PROJECT_DIR$/../zKingmanCristel" web="/zKingMan" />
+            <mapping deploy="/progetto/PI_Cristel" local="$PROJECT_DIR$" web="/progetto" />
+            <mapping deploy="/ace-master" local="$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

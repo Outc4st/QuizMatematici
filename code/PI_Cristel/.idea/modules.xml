@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QuizMatematici/.idea/QuizMatematici.iml" filepath="$PROJECT_DIR$/../QuizMatematici/.idea/QuizMatematici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/.idea/ace-masterCristel.iml" filepath="$PROJECT_DIR$/../../../../SSIG 2/WEBO/espe1WEBO/ace-masterCristel/.idea/ace-masterCristel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test2WEBO/Sore/acemaster/.idea/acemaster.iml" filepath="$PROJECT_DIR$/../../../../SSIG 2/WEBO/test2WEBO/Sore/acemaster/.idea/acemaster.iml" />
+      <module fileurl="file://C:/laragon/www/adressBook/.idea/adressBook.iml" filepath="C:/laragon/www/adressBook/.idea/adressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/.idea/test1WEBO.iml" filepath="$PROJECT_DIR$/../../../../SSIG 2/WEBO/test1WEBO/test1WEBO/.idea/test1WEBO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zKingmanCristel/.idea/zKingmanCristel.iml" filepath="$PROJECT_DIR$/../zKingmanCristel/.idea/zKingmanCristel.iml" />
+    </modules>
+  </component>
+</project>
